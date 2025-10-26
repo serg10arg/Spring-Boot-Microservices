@@ -21,7 +21,7 @@ La arquitectura sigue un patrón de **Agregador de Microservicios**. El `product
 
 A continuación, se muestra un diagrama de flujo de la comunicación entre servicios:
 
-![Diagrama de Flujo](01-Creating-a-Mini-Microservice-App/diagrama.png)
+![Diagrama de Flujo](diagrama.png)
 
 ## Tecnologías Utilizadas
 
